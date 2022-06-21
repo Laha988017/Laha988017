@@ -14,7 +14,7 @@
 - 📫 How to reach me **subhajitlaha.sl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">www.linkedin.com/in/laha-subhajit
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
